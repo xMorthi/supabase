@@ -1,7 +1,7 @@
 {
   "private": true,
   "engines": {
-    "node": ">=v16.15.1"
+    "node": ">=v16.20.1"
   },
   "scripts": {
     "dev": "nuxi dev",
@@ -14,14 +14,14 @@
     "@iconify-json/heroicons-outline": "^1.1.6",
     "@iconify-json/mdi": "^1.1.53",
     "@nuxt/eslint-config": "^0.1.1",
-    "@nuxthq/ui": "^1.2.10",
+    "@nuxthq/ui": "^1.2.11",
     "@nuxtjs/color-mode": "^3.3.0",
-    "@nuxtjs/supabase": "^1.0.0-0",
+    "@nuxtjs/supabase": "^1.0.2",
     "eslint": "^8.46.0",
     "nuxt": "^3.6.5",
     "typescript": "^5.1.6"
   },
   "resolutions": {
-    "consola": "^3.0.0"
+    "consola": "^3.2.3"
   }
 }

@@ -15,7 +15,7 @@
     "@nuxt/eslint-config": "^0.1.1",
     "@nuxtjs/plausible": "^0.2.1",
     "@nuxtlabs/github-module": "^1.6.3",
-    "@types/node": "^20.4.5",
+    "@types/node": "^20.4.7",
     "eslint": "^8.46.0",
     "nuxt": "^3.6.5"
   }
